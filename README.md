@@ -1,6 +1,6 @@
 # DataStructures
   
-### LinkedList
+## LinkedList
     1. Linked List Insertion
       a) Add a node at the front
       b) Add a node after a given node
