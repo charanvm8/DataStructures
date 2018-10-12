@@ -1,14 +1,15 @@
 package LinkedList;
 
+import LinkedListLeetCode.ListNode;
+
 public class LinkedListReverse {
     Node head;
 
     public Node reverse(Node n){
         Node lastNode = null;
         Node tempHead = head;
-        Node next = null;
         while (tempHead != null) {
-            next = tempHead.next;
+            Node next = tempHead.next;
             tempHead.next = lastNode;
             lastNode = tempHead;
             tempHead = next;
