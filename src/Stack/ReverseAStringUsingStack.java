@@ -8,7 +8,7 @@ public class ReverseAStringUsingStack {
         Stack stringChars = new Stack<Character>();
         String returnString="";
         for(int i=0;i<s.length();i++){
-            Character c = (Character) s.charAt(i);
+            Character c = s.charAt(i);
             stringChars.push(c);
         }
         while (!stringChars.isEmpty()){
