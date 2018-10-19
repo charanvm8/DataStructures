@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77d5e9c9-5628-41ec-ada2-822a5059f885" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Stack/ReverseAStringUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/ReverseAStringUsingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Stack/ValidParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/ValidParanthesis.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,12 +30,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="62" />
-          <entry key="java" value="9115" />
+          <entry key="java" value="9146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9115" />
+          <entry key="JAVA" value="9146" />
           <entry key="PLAIN_TEXT" value="62" />
         </counts>
       </usages-collector>
@@ -123,8 +123,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Stack/ValidParanthesis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="177">
+              <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+              <folding>
+                <element signature="e#1159#1160#0" expanded="true" />
+                <element signature="e#1186#1187#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,10 +205,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="973" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1680" />
+    <option name="y" value="-665" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -243,7 +248,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/charan.mareedu/Charan/DataStructures/src/LinkedList/LinkedListLength.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539776971768" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539984233335" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -258,22 +263,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseAStringUsingStack">
+  <component name="RunManager" selected="Application.ValidParanthesis">
     <configuration name="LinkedListBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedListBasics" />
-      <module name="DataStructures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListInsertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedListInsertion" />
       <module name="DataStructures" />
       <extension name="coverage">
         <pattern>
@@ -324,20 +316,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidParanthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.ValidParanthesis" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.LinkedListBasics" />
-      <item itemvalue="Application.LinkedListInsertion" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.StackLinkedList" />
       <item itemvalue="Application.ReverseAStringUsingStack" />
+      <item itemvalue="Application.ValidParanthesis" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidParanthesis" />
         <item itemvalue="Application.ReverseAStringUsingStack" />
         <item itemvalue="Application.StackLinkedList" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.LinkedListBasics" />
-        <item itemvalue="Application.LinkedListInsertion" />
       </list>
     </recent_temporary>
   </component>
@@ -360,18 +365,17 @@
       <workItem from="1539272963348" duration="83000" />
       <workItem from="1539305199945" duration="241000" />
       <workItem from="1539651782908" duration="167000" />
-      <workItem from="1539721826542" duration="8323000" />
+      <workItem from="1539721826542" duration="10320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53238000" />
+    <option name="totallyTimeSpent" value="55235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="973" extended-state="0" />
-    <editor active="true" />
+    <frame x="1680" y="-665" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31440783" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2742279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -380,14 +384,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291714" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.31895572" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41020408" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946752" visible="true" weight="0.27821782" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40976164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49893504" visible="true" weight="0.37797958" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49893504" weight="0.37797958" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50106496" side_tool="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -609,8 +613,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/ValidParanthesis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="177">
+          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+          <folding>
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1186#1187#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
