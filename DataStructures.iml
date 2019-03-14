@@ -7,6 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="restful-api-1.0-SNAPSHOT-jar-with-dependencies" level="project" />
+    <orderEntry type="library" name="jaxb-api-2.3.1" level="project" />
+    <orderEntry type="library" name="jaxb-api-2.1" level="project" />
   </component>
 </module>
-
