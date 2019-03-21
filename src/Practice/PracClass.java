@@ -16,8 +16,15 @@ public class PracClass {
 //
 //        System.out.println(s.equals(revString));
 
-        Set<String> setVals = new HashSet<>();
-        System.out.println(setVals.);
+        int[] nums = new int[]{1,2,3,4,5,6};
+        for(int num:nums){
+            System.out.println(num);
+        }
+
+        int z= 40;
+        System.out.println(z%10);
+        System.out.println(z/10);
+
 
 
 
