@@ -25,7 +25,7 @@ public class PracClass {
         System.out.println(z%10);
         System.out.println(z/10);
 
-
+        System.out.println(1<<15);
 
 
     }
