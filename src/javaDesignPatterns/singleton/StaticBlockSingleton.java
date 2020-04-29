@@ -1,7 +1,5 @@
 package javaDesignPatterns.singleton;
 
-import org.apache.tools.ant.taskdefs.Expand;
-
 public class StaticBlockSingleton {
 
     private static StaticBlockSingleton instance;

@@ -12,8 +12,10 @@ public class StackPalindrome {
             }
             else{
                 char last = charSet.pop();
-                if(s.charAt())
+                //if(s.charAt())
             }
         }
+        // TODO
+        return false;
     }
 }
