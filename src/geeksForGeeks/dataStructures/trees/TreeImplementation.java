@@ -21,5 +21,9 @@ public class TreeImplementation {
 
         TreeTraversal.levelOrder(root);
         System.out.println();
+        System.out.println("Left View");
+        LeftViewOfTree ll = new LeftViewOfTree();
+        ll.printLeftView(root);
+        System.out.println();
     }
 }
